@@ -2,6 +2,8 @@
 Docker Image containing 
 * Java 8, 11, 17
 * NodeJS 14, 16
+* npm 6
+* yarn
 * Chrome latest Stable version
 
 
