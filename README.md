@@ -1,6 +1,7 @@
 # java-nodejs-chrome
 Docker Image containing 
 * Java 8, 11, 17
+* maven 3.5 / 3.6
 * NodeJS 14, 16
 * npm 6
 * yarn
